@@ -1,40 +1,34 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌿 HijauBersama
 
-## Getting Started
+HijauBersama adalah sebuah platform web komunitas yang bertujuan untuk mengedukasi, menginspirasi, dan mengajak masyarakat dalam menjaga lingkungan melalui aksi penghijauan dan gaya hidup ramah lingkungan.
 
-First, run the development server:
+## 🔍 Fitur Utama
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Forum Diskusi & Sharing Pengalaman 🗣️**  
+  Ruang diskusi bagi pengguna untuk berbagi pengalaman, bertanya, dan berdiskusi seputar tanaman, lingkungan, dan penghijauan.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Edukasi & Artikel + Tips Menanam Pohon 📖**  
+  Artikel inspiratif, panduan praktis, serta video tutorial daro youtube.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Tantangan Menanam Pohon 🌱🏅**  
+  Pengguna dapat mengikuti tantangan menanam pohon dan mengunggah bukti. Setelah diverifikasi, pengguna menerima **sertifikat digital**.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Galeri Proyek Hijau 📸**  
+  Tempat memamerkan aksi nyata penghijauan dari komunitas. Pengguna bisa berbagi foto serta mengapresiasi aksi orang lain.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## ⚙️ Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Next.js** – Framework React untuk aplikasi web yang cepat dan SEO-friendly.  
+- **React.js** – Library JavaScript untuk membangun antarmuka pengguna berbasis komponen.  
+- **Tailwind CSS** – Framework CSS untuk styling yang cepat, konsisten, dan responsif.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🚀 Cara Menjalankan Project
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# HijauBersama-UTS-PPL
->>>>>>> aad220d7c8866f043b61d32c202347ced56b6101
+1. **Clone repository ini:**
+   ```bash
+   git clone https://github.com/username/hijaubersama.git
+   cd hijaubersama
