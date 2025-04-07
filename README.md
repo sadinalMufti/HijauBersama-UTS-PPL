@@ -32,3 +32,4 @@ HijauBersama adalah sebuah platform web komunitas yang bertujuan untuk mengeduka
    ```bash
    git clone https://github.com/username/hijaubersama.git
    cd hijaubersama
+   npm run dev
