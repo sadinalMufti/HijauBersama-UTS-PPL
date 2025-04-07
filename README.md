@@ -30,6 +30,6 @@ HijauBersama adalah sebuah platform web komunitas yang bertujuan untuk mengeduka
 
 1. **Clone repository ini:**
    ```bash
-   git clone https://github.com/username/hijaubersama.git
+   git clone https://github.com/sadinalMufti/HijauBersama-UTS-PPL
    cd hijaubersama
    npm run dev
